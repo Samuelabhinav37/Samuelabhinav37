@@ -33,12 +33,18 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-01 13:42 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-01 23:45 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-5353`**](https://nvd.nist.gov/vuln/detail/CVE-2026-5353) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.3**<br><sub>A vulnerability was detected in Trendnet TEW-657BRM 1.00.1. Affected is the function ping_tes...</sub><br><sub>Published: `2026-04-02`</sub> | [**Edmunds**](https://www.google.com/search?q=Edmunds%20data%20breach&tbm=nws) &nbsp; <sub>`edmunds.com`</sub><br><sub>**177,860** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `ip addresses` &nbsp;·&nbsp; Added: `2026-06-01`</sub> |
-| [**`CVE-2026-5352`**](https://nvd.nist.gov/vuln/detail/CVE-2026-5352) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.3**<br><sub>A security vulnerability has been detected in Trendnet TEW-657BRM 1.00.1. This impacts the fu...</sub><br><sub>Published: `2026-04-02`</sub> | [**AtlasMenu**](https://www.google.com/search?q=AtlasMenu%20data%20breach&tbm=nws) &nbsp; <sub>`atlasmenu.net`</sub><br><sub>**63,926** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-30`</sub> |
-| [**`CVE-2026-35388`**](https://nvd.nist.gov/vuln/detail/CVE-2026-35388) ![LOW](https://img.shields.io/badge/LOW-339900?style=flat-square) **2.5**<br><sub>OpenSSH before 10.3 omits connection multiplexing confirmation for proxy-mode multiplexing se...</sub><br><sub>Published: `2026-04-02`</sub> | [**Charter**](https://www.google.com/search?q=Charter%20data%20breach&tbm=nws) &nbsp; <sub>`charter.com`</sub><br><sub>**4,851,517** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-05-28`</sub> |
+| [**`CVE-2026-23465`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23465) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+btrfs: log new dentries ...</sub><br><sub>Published: `2026-04-03`</sub> | [**Edmunds**](https://www.google.com/search?q=Edmunds%20data%20breach&tbm=nws) &nbsp; <sub>`edmunds.com`</sub><br><sub>**177,860** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `ip addresses` &nbsp;·&nbsp; Added: `2026-06-01`</sub> |
+| [**`CVE-2026-23464`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23464) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+soc: microchip: mpfs: Fi...</sub><br><sub>Published: `2026-04-03`</sub> | [**AtlasMenu**](https://www.google.com/search?q=AtlasMenu%20data%20breach&tbm=nws) &nbsp; <sub>`atlasmenu.net`</sub><br><sub>**63,926** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-30`</sub> |
+| [**`CVE-2026-23463`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23463) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **4.7**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+soc: fsl: qbman: fix rac...</sub><br><sub>Published: `2026-04-03`</sub> | [**Charter**](https://www.google.com/search?q=Charter%20data%20breach&tbm=nws) &nbsp; <sub>`charter.com`</sub><br><sub>**4,851,517** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-05-28`</sub> |
 <!-- SECURITY-END -->
 ---
