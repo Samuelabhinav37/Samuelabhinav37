@@ -33,18 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-01 23:45 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-02 12:12 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-23465`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23465) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-btrfs: log new dentries ...</sub><br><sub>Published: `2026-04-03`</sub> | [**Edmunds**](https://www.google.com/search?q=Edmunds%20data%20breach&tbm=nws) &nbsp; <sub>`edmunds.com`</sub><br><sub>**177,860** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `ip addresses` &nbsp;·&nbsp; Added: `2026-06-01`</sub> |
-| [**`CVE-2026-23464`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23464) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-soc: microchip: mpfs: Fi...</sub><br><sub>Published: `2026-04-03`</sub> | [**AtlasMenu**](https://www.google.com/search?q=AtlasMenu%20data%20breach&tbm=nws) &nbsp; <sub>`atlasmenu.net`</sub><br><sub>**63,926** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-30`</sub> |
-| [**`CVE-2026-23463`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23463) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **4.7**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-soc: fsl: qbman: fix rac...</sub><br><sub>Published: `2026-04-03`</sub> | [**Charter**](https://www.google.com/search?q=Charter%20data%20breach&tbm=nws) &nbsp; <sub>`charter.com`</sub><br><sub>**4,851,517** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-05-28`</sub> |
+| [**`CVE-2026-35218`**](https://nvd.nist.gov/vuln/detail/CVE-2026-35218) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.7**<br><sub>Budibase is an open-source low-code platform. Prior to version 3.32.5, Budibase's Builder Com...</sub><br><sub>Published: `2026-04-03`</sub> | [**Edmunds**](https://www.google.com/search?q=Edmunds%20data%20breach&tbm=nws) &nbsp; <sub>`edmunds.com`</sub><br><sub>**177,860** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `ip addresses` &nbsp;·&nbsp; Added: `2026-06-01`</sub> |
+| [**`CVE-2026-35216`**](https://nvd.nist.gov/vuln/detail/CVE-2026-35216) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.0**<br><sub>Budibase is an open-source low-code platform. Prior to version 3.33.4, an unauthenticated att...</sub><br><sub>Published: `2026-04-03`</sub> | [**AtlasMenu**](https://www.google.com/search?q=AtlasMenu%20data%20breach&tbm=nws) &nbsp; <sub>`atlasmenu.net`</sub><br><sub>**63,926** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-30`</sub> |
+| [**`CVE-2026-35214`**](https://nvd.nist.gov/vuln/detail/CVE-2026-35214) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.7**<br><sub>Budibase is an open-source low-code platform. Prior to version 3.33.4, the plugin file upload...</sub><br><sub>Published: `2026-04-03`</sub> | [**Charter**](https://www.google.com/search?q=Charter%20data%20breach&tbm=nws) &nbsp; <sub>`charter.com`</sub><br><sub>**4,851,517** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-05-28`</sub> |
 <!-- SECURITY-END -->
 ---
