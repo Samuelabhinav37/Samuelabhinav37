@@ -33,12 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-18 11:54 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-19 12:14 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
+| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**RalphLauren**](https://www.google.com/search?q=RalphLauren%20data%20breach&tbm=nws) &nbsp; <sub>`ralphlauren.com`</sub><br><sub>**139,903** accounts compromised</sub><br><sub>Data: `age groups` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
+| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**OperationEndgame4**](https://www.google.com/search?q=OperationEndgame4%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**153,527** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
 | [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**CFGI**](https://www.google.com/search?q=CFGI%20data%20breach&tbm=nws) &nbsp; <sub>`cfgi.com`</sub><br><sub>**248,235** accounts compromised</sub><br><sub>Data: `email addresses` `employers` `job titles` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
-| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**June2026StealerLogs**](https://www.google.com/search?q=June2026StealerLogs%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**56,278,397** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-15`</sub> |
-| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**Berkadia**](https://www.google.com/search?q=Berkadia%20data%20breach&tbm=nws) &nbsp; <sub>`berkadia.com`</sub><br><sub>**305,216** accounts compromised</sub><br><sub>Data: `email addresses` `employers` `names` &nbsp;·&nbsp; Added: `2026-06-15`</sub> |
 <!-- SECURITY-END -->
 ---
