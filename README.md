@@ -33,12 +33,18 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-22 13:40 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-23 11:24 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**JCPenney**](https://www.google.com/search?q=JCPenney%20data%20breach&tbm=nws) &nbsp; <sub>`jcpenny.com`</sub><br><sub>**368,418** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `government issued ids` &nbsp;·&nbsp; Added: `2026-06-20`</sub> |
-| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**RalphLauren**](https://www.google.com/search?q=RalphLauren%20data%20breach&tbm=nws) &nbsp; <sub>`ralphlauren.com`</sub><br><sub>**139,903** accounts compromised</sub><br><sub>Data: `age groups` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
-| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**OperationEndgame4**](https://www.google.com/search?q=OperationEndgame4%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**153,527** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
+| [**`CVE-2026-31620`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31620) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **4.6**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+ALSA: usx2y: us144mkii: ...</sub><br><sub>Published: `2026-04-24`</sub> | [**JCPenney**](https://www.google.com/search?q=JCPenney%20data%20breach&tbm=nws) &nbsp; <sub>`jcpenny.com`</sub><br><sub>**368,418** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `government issued ids` &nbsp;·&nbsp; Added: `2026-06-20`</sub> |
+| [**`CVE-2026-31619`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31619) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+ALSA: fireworks: bound d...</sub><br><sub>Published: `2026-04-24`</sub> | [**RalphLauren**](https://www.google.com/search?q=RalphLauren%20data%20breach&tbm=nws) &nbsp; <sub>`ralphlauren.com`</sub><br><sub>**139,903** accounts compromised</sub><br><sub>Data: `age groups` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
+| [**`CVE-2026-31618`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31618) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+fbdev: tdfxfb: avoid div...</sub><br><sub>Published: `2026-04-24`</sub> | [**OperationEndgame4**](https://www.google.com/search?q=OperationEndgame4%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**153,527** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
 <!-- SECURITY-END -->
 ---
