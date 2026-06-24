@@ -33,18 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-23 11:24 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-24 10:57 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-31620`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31620) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **4.6**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-ALSA: usx2y: us144mkii: ...</sub><br><sub>Published: `2026-04-24`</sub> | [**JCPenney**](https://www.google.com/search?q=JCPenney%20data%20breach&tbm=nws) &nbsp; <sub>`jcpenny.com`</sub><br><sub>**368,418** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `government issued ids` &nbsp;·&nbsp; Added: `2026-06-20`</sub> |
-| [**`CVE-2026-31619`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31619) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-ALSA: fireworks: bound d...</sub><br><sub>Published: `2026-04-24`</sub> | [**RalphLauren**](https://www.google.com/search?q=RalphLauren%20data%20breach&tbm=nws) &nbsp; <sub>`ralphlauren.com`</sub><br><sub>**139,903** accounts compromised</sub><br><sub>Data: `age groups` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
-| [**`CVE-2026-31618`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31618) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-fbdev: tdfxfb: avoid div...</sub><br><sub>Published: `2026-04-24`</sub> | [**OperationEndgame4**](https://www.google.com/search?q=OperationEndgame4%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**153,527** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
+| [**`CVE-2026-7062`**](https://nvd.nist.gov/vuln/detail/CVE-2026-7062) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.3**<br><sub>A security vulnerability has been detected in Intina47 context-sync up to 2.0.0. This affects...</sub><br><sub>Published: `2026-04-26`</sub> | [**JCPenney**](https://www.google.com/search?q=JCPenney%20data%20breach&tbm=nws) &nbsp; <sub>`jcpenny.com`</sub><br><sub>**368,418** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `government issued ids` &nbsp;·&nbsp; Added: `2026-06-20`</sub> |
+| [**`CVE-2026-7061`**](https://nvd.nist.gov/vuln/detail/CVE-2026-7061) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.3**<br><sub>A weakness has been identified in Toowiredd chatgpt-mcp-server up to 0.1.0. Affected by this ...</sub><br><sub>Published: `2026-04-26`</sub> | [**RalphLauren**](https://www.google.com/search?q=RalphLauren%20data%20breach&tbm=nws) &nbsp; <sub>`ralphlauren.com`</sub><br><sub>**139,903** accounts compromised</sub><br><sub>Data: `age groups` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
+| [**`CVE-2026-7060`**](https://nvd.nist.gov/vuln/detail/CVE-2026-7060) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.3**<br><sub>A vulnerability was determined in liyupi yu-picture up to a053632c41340152bf75b66b3c543d12912...</sub><br><sub>Published: `2026-04-26`</sub> | [**OperationEndgame4**](https://www.google.com/search?q=OperationEndgame4%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**153,527** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
 <!-- SECURITY-END -->
 ---
