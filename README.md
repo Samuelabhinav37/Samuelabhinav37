@@ -1,28 +1,39 @@
 <img align="right" width="200" src="octocat.gif" alt="Octocat detective" />
 
-Hi, I’m Samuel. I’m a Security Researcher driven by a simple question: Why does security so often feel like it’s fighting the user? I believe that the strongest defenses are those that protect people without getting in their way, turning security into a seamless asset rather than a technical hurdle.I am currently focused on the intersection of AI and LLM security, specifically identifying vulnerabilities in agentic workflows and adversarial prompt engineering. My goal is to engineer robust, invisible guardrails that secure autonomous systems while preserving the intuitive experience that users expect.
+Hi, I'm Samuel. I'm a Security Researcher driven by a simple question: why does security so often feel like it's fighting the user? The strongest defenses protect people without getting in their way, turning security into a seamless asset instead of a technical hurdle.
+
+I'm currently focused on the intersection of AI and LLM security: finding vulnerabilities in agentic workflows and adversarial prompt engineering, and building the robust, invisible guardrails that keep autonomous systems safe without adding friction.
 
 <br clear="right"/>
 
-## 📰 Reading List
  
-Things I've read and kept thinking about. Updated when something actually sticks.
+## 📚 Bookshelf
 
-**01 · [Indirect Prompt Injection Attacks Against LLM-Integrated Applications](https://arxiv.org/abs/2302.12173)**
-`Greshake et al. · 2023` &nbsp; `Prompt Injection` &nbsp; `Agentic Security`
-The paper that made me realize how wide the attack surface actually is once you start chaining LLM calls. Required reading before building anything agentic.
+The longer reads behind how I think, not just what I know.
 
-**02 · [MITRE ATLAS: Adversarial Threat Landscape for AI Systems](https://atlas.mitre.org/)**
-`MITRE · Ongoing` &nbsp; `AI Red Teaming` &nbsp; `Threat Modeling`
-ATT&CK for ML systems. I go back to this constantly when thinking through what a detection pipeline should actually be watching for.
+**01 · [Hacking: The Art of Exploitation](https://nostarch.com/hacking2.htm)**
+`Jon Erickson · 2008` &nbsp; `Exploitation` &nbsp; `Assembly`
+Where exploitation stopped being abstract for me. Building the stack overflows and shellcode by hand is the closest thing to seeing memory corruption from the inside.
 
-**03 · [Zero Trust Architecture — NIST SP 800-207](https://csrc.nist.gov/publications/detail/sp/800-207/final)**
-`NIST · 2020` &nbsp; `Zero Trust` &nbsp; `Architecture`
-Takes some effort to get through but worth it. A lot of how I think about authentication and trust scoring traces back to the principles in here.
+**02 · [Code: The Hidden Language of Computer Hardware and Software](https://www.codehiddenlanguage.com)**
+`Charles Petzold · 2022` &nbsp; `Computing` &nbsp; `First Principles`
+Starts with two kids signaling across a street with flashlights and ends with a working CPU. The clearest picture I have of what's actually happening under everything else on this list.
 
-**04 · [SoK: Attacks on Large Language Models](https://arxiv.org/abs/2402.06674)**
-`Yao et al. · 2024` &nbsp; `LLM Security` &nbsp; `Survey`
-The most complete map of the LLM attack landscape I've come across. Good place to start if you're trying to understand the threat surface before jumping into red teaming.
+**03 · [Data and Goliath](https://www.schneier.com/books/data-and-goliath/)**
+`Bruce Schneier · 2015` &nbsp; `Privacy` &nbsp; `Surveillance`
+The book that ties my technical work back to why it matters. Required reading if you care about the person on the other side of the system, not just the system.
+
+**04 · [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)**
+`Hunt & Thomas · 2019` &nbsp; `Craft` &nbsp; `Engineering`
+Less about code than about how to think like someone who ships. I reread sections of this more than anything else here.
+
+**05 · [Designing Data-Intensive Applications](https://dataintensive.net/)**
+`Martin Kleppmann · 2017` &nbsp; `Distributed Systems` &nbsp; `Data`
+The map I keep coming back to for how real systems store and move data at scale. Dense, but every chapter has earned its place.
+
+**06 · A Philosophy of Software Design**
+`John Ousterhout · 2018` &nbsp; `Design` &nbsp; `Complexity`
+Short, sharp, and it rewired how I think about complexity. "Deep modules" is a phrase I can no longer stop using.
 
 ---
 
