@@ -44,12 +44,18 @@ Short, sharp, and it rewired how I think about complexity. "Deep modules" is a p
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-22 08:37 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-23 08:37 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-54301`**](https://nvd.nist.gov/vuln/detail/CVE-2026-54301) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.4**<br><sub>n8n is an open source workflow automation platform. Prior to 1.123.55, 2.25.7, and 2.26.2, an...</sub><br><sub>Published: `2026-06-23`</sub> | [**GolfCanada**](https://www.google.com/search?q=GolfCanada%20data%20breach&tbm=nws) &nbsp; <sub>`golfcanada.ca`</sub><br><sub>**568,972** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-08-22`</sub> |
-| [**`CVE-2026-50574`**](https://nvd.nist.gov/vuln/detail/CVE-2026-50574) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.3**<br><sub>yt-dlp is a command-line audio/video downloader. Prior to 2026.06.09, if aria2c is used as an...</sub><br><sub>Published: `2026-06-23`</sub> | [**OzHairAndBeauty**](https://www.google.com/search?q=OzHairAndBeauty%20data%20breach&tbm=nws) &nbsp; <sub>`ozhairandbeauty.com`</sub><br><sub>**1,988,331** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-08-19`</sub> |
-| [**`CVE-2026-50023`**](https://nvd.nist.gov/vuln/detail/CVE-2026-50023) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.3**<br><sub>yt-dlp is a command-line audio/video downloader. Prior to 2026.06.09, a vulnerability exists ...</sub><br><sub>Published: `2026-06-23`</sub> | [**Fanlore**](https://www.google.com/search?q=Fanlore%20data%20breach&tbm=nws) &nbsp; <sub>`fanlore.org`</sub><br><sub>**144,520** accounts compromised</sub><br><sub>Data: `email addresses` `names` `passwords` &nbsp;·&nbsp; Added: `2026-08-19`</sub> |
+| [**`CVE-2026-52958`**](https://nvd.nist.gov/vuln/detail/CVE-2026-52958) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+libceph: Fix potential o...</sub><br><sub>Published: `2026-06-24`</sub> | [**GolfCanada**](https://www.google.com/search?q=GolfCanada%20data%20breach&tbm=nws) &nbsp; <sub>`golfcanada.ca`</sub><br><sub>**568,972** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-08-22`</sub> |
+| [**`CVE-2026-52957`**](https://nvd.nist.gov/vuln/detail/CVE-2026-52957) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+libceph: Fix potential n...</sub><br><sub>Published: `2026-06-24`</sub> | [**OzHairAndBeauty**](https://www.google.com/search?q=OzHairAndBeauty%20data%20breach&tbm=nws) &nbsp; <sub>`ozhairandbeauty.com`</sub><br><sub>**1,988,331** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-08-19`</sub> |
+| [**`CVE-2026-52956`**](https://nvd.nist.gov/vuln/detail/CVE-2026-52956) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+libceph: Fix potential o...</sub><br><sub>Published: `2026-06-24`</sub> | [**Fanlore**](https://www.google.com/search?q=Fanlore%20data%20breach&tbm=nws) &nbsp; <sub>`fanlore.org`</sub><br><sub>**144,520** accounts compromised</sub><br><sub>Data: `email addresses` `names` `passwords` &nbsp;·&nbsp; Added: `2026-08-19`</sub> |
 <!-- SECURITY-END -->
 ---
