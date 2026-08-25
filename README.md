@@ -44,18 +44,12 @@ Short, sharp, and it rewired how I think about complexity. "Deep modules" is a p
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-24 08:55 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-25 08:50 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-53226`**](https://nvd.nist.gov/vuln/detail/CVE-2026-53226) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-gpio: rockchip: fix gene...</sub><br><sub>Published: `2026-06-25`</sub> | [**NIUS**](https://www.google.com/search?q=NIUS%20data%20breach&tbm=nws) &nbsp; <sub>`nius.de`</sub><br><sub>**6,090** accounts compromised</sub><br><sub>Data: `bank account numbers` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-08-23`</sub> |
-| [**`CVE-2026-53225`**](https://nvd.nist.gov/vuln/detail/CVE-2026-53225) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-sctp: fix uninit-value i...</sub><br><sub>Published: `2026-06-25`</sub> | [**GolfCanada**](https://www.google.com/search?q=GolfCanada%20data%20breach&tbm=nws) &nbsp; <sub>`golfcanada.ca`</sub><br><sub>**568,972** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-08-22`</sub> |
-| [**`CVE-2026-53224`**](https://nvd.nist.gov/vuln/detail/CVE-2026-53224) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-sctp: validate embedded ...</sub><br><sub>Published: `2026-06-25`</sub> | [**OzHairAndBeauty**](https://www.google.com/search?q=OzHairAndBeauty%20data%20breach&tbm=nws) &nbsp; <sub>`ozhairandbeauty.com`</sub><br><sub>**1,988,331** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-08-19`</sub> |
+| [**`CVE-2026-56072`**](https://nvd.nist.gov/vuln/detail/CVE-2026-56072) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.1**<br><sub>Unauthenticated Cross Site Scripting (XSS) in WoodMart <= 8.5.3 versions.</sub><br><sub>Published: `2026-06-26`</sub> | [**NIUS**](https://www.google.com/search?q=NIUS%20data%20breach&tbm=nws) &nbsp; <sub>`nius.de`</sub><br><sub>**6,090** accounts compromised</sub><br><sub>Data: `bank account numbers` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-08-23`</sub> |
+| [**`CVE-2026-56070`**](https://nvd.nist.gov/vuln/detail/CVE-2026-56070) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.3**<br><sub>Unauthenticated SQL Injection in Advance Product Search <= 1.4.4 versions.</sub><br><sub>Published: `2026-06-26`</sub> | [**GolfCanada**](https://www.google.com/search?q=GolfCanada%20data%20breach&tbm=nws) &nbsp; <sub>`golfcanada.ca`</sub><br><sub>**568,972** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-08-22`</sub> |
+| [**`CVE-2026-56069`**](https://nvd.nist.gov/vuln/detail/CVE-2026-56069) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>Unauthenticated Insecure Direct Object References (IDOR) in Toolset Forms <= 2.6.24 versions.</sub><br><sub>Published: `2026-06-26`</sub> | [**OzHairAndBeauty**](https://www.google.com/search?q=OzHairAndBeauty%20data%20breach&tbm=nws) &nbsp; <sub>`ozhairandbeauty.com`</sub><br><sub>**1,988,331** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-08-19`</sub> |
 <!-- SECURITY-END -->
 ---
