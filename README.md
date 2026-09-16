@@ -44,12 +44,18 @@ Short, sharp, and it rewired how I think about complexity. "Deep modules" is a p
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-09-15 13:22 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-09-16 13:21 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-48487`**](https://nvd.nist.gov/vuln/detail/CVE-2026-48487) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.3**<br><sub>Zeroconf is a pure Python implementation of multicast DNS service discovery. Prior to 0.149.1...</sub><br><sub>Published: `2026-07-17`</sub> | [**Chess2026**](https://www.google.com/search?q=Chess2026%20data%20breach&tbm=nws) &nbsp; <sub>`chess.com`</sub><br><sub>**4,653,212** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-09-13`</sub> |
-| [**`CVE-2026-48045`**](https://nvd.nist.gov/vuln/detail/CVE-2026-48045) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.5**<br><sub>Zeroconf is a pure Python implementation of multicast DNS service discovery. Prior to 0.149.1...</sub><br><sub>Published: `2026-07-17`</sub> | [**McKesson**](https://www.google.com/search?q=McKesson%20data%20breach&tbm=nws) &nbsp; <sub>`mckesson.com`</sub><br><sub>**6,404,340** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-09-10`</sub> |
-| [**`CVE-2026-47184`**](https://nvd.nist.gov/vuln/detail/CVE-2026-47184) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.5**<br><sub>Zeroconf is a pure Python implementation of multicast DNS service discovery. Prior to 0.149.7...</sub><br><sub>Published: `2026-07-17`</sub> | [**ManchesterAirportsGroup**](https://www.google.com/search?q=ManchesterAirportsGroup%20data%20breach&tbm=nws) &nbsp; <sub>`magairports.com`</sub><br><sub>**8,849,657** accounts compromised</sub><br><sub>Data: `browser user agent details` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-09-02`</sub> |
+| [**`CVE-2026-53379`**](https://nvd.nist.gov/vuln/detail/CVE-2026-53379) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+media: i2c: ov8856: free...</sub><br><sub>Published: `2026-07-19`</sub> | [**Chess2026**](https://www.google.com/search?q=Chess2026%20data%20breach&tbm=nws) &nbsp; <sub>`chess.com`</sub><br><sub>**4,653,212** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-09-13`</sub> |
+| [**`CVE-2026-53378`**](https://nvd.nist.gov/vuln/detail/CVE-2026-53378) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+drm/colorop: Fix blob pr...</sub><br><sub>Published: `2026-07-19`</sub> | [**McKesson**](https://www.google.com/search?q=McKesson%20data%20breach&tbm=nws) &nbsp; <sub>`mckesson.com`</sub><br><sub>**6,404,340** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-09-10`</sub> |
+| [**`CVE-2026-53377`**](https://nvd.nist.gov/vuln/detail/CVE-2026-53377) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+drm/msm: always recover ...</sub><br><sub>Published: `2026-07-19`</sub> | [**ManchesterAirportsGroup**](https://www.google.com/search?q=ManchesterAirportsGroup%20data%20breach&tbm=nws) &nbsp; <sub>`magairports.com`</sub><br><sub>**8,849,657** accounts compromised</sub><br><sub>Data: `browser user agent details` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-09-02`</sub> |
 <!-- SECURITY-END -->
 ---
