@@ -44,18 +44,18 @@ Short, sharp, and it rewired how I think about complexity. "Deep modules" is a p
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-09-17 13:17 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-09-18 12:52 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-63930`**](https://nvd.nist.gov/vuln/detail/CVE-2026-63930) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+| [**`CVE-2026-64207`**](https://nvd.nist.gov/vuln/detail/CVE-2026-64207) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
 
-iio: buffer: hw-consumer...</sub><br><sub>Published: `2026-07-19`</sub> | [**Chess2026**](https://www.google.com/search?q=Chess2026%20data%20breach&tbm=nws) &nbsp; <sub>`chess.com`</sub><br><sub>**4,653,212** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-09-13`</sub> |
-| [**`CVE-2026-63927`**](https://nvd.nist.gov/vuln/detail/CVE-2026-63927) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+net/sched: dualpi2: fix ...</sub><br><sub>Published: `2026-07-20`</sub> | [**Chess2026**](https://www.google.com/search?q=Chess2026%20data%20breach&tbm=nws) &nbsp; <sub>`chess.com`</sub><br><sub>**4,653,212** accounts compromised</sub><br><sub>Data: `email addresses` `geographic locations` `names` &nbsp;·&nbsp; Added: `2026-09-13`</sub> |
+| [**`CVE-2026-64206`**](https://nvd.nist.gov/vuln/detail/CVE-2026-64206) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
 
-usb: dwc2: Fix use after...</sub><br><sub>Published: `2026-07-19`</sub> | [**McKesson**](https://www.google.com/search?q=McKesson%20data%20breach&tbm=nws) &nbsp; <sub>`mckesson.com`</sub><br><sub>**6,404,340** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-09-10`</sub> |
-| [**`CVE-2026-63926`**](https://nvd.nist.gov/vuln/detail/CVE-2026-63926) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.4**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+Bluetooth: L2CAP: cancel...</sub><br><sub>Published: `2026-07-20`</sub> | [**McKesson**](https://www.google.com/search?q=McKesson%20data%20breach&tbm=nws) &nbsp; <sub>`mckesson.com`</sub><br><sub>**6,404,340** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-09-10`</sub> |
+| [**`CVE-2026-64205`**](https://nvd.nist.gov/vuln/detail/CVE-2026-64205) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
 
-bpf: sockmap: fix tail f...</sub><br><sub>Published: `2026-07-19`</sub> | [**ManchesterAirportsGroup**](https://www.google.com/search?q=ManchesterAirportsGroup%20data%20breach&tbm=nws) &nbsp; <sub>`magairports.com`</sub><br><sub>**8,849,657** accounts compromised</sub><br><sub>Data: `browser user agent details` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-09-02`</sub> |
+i2c: i801: fix hardware ...</sub><br><sub>Published: `2026-07-20`</sub> | [**ManchesterAirportsGroup**](https://www.google.com/search?q=ManchesterAirportsGroup%20data%20breach&tbm=nws) &nbsp; <sub>`magairports.com`</sub><br><sub>**8,849,657** accounts compromised</sub><br><sub>Data: `browser user agent details` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-09-02`</sub> |
 <!-- SECURITY-END -->
 ---
