@@ -44,12 +44,18 @@ Short, sharp, and it rewired how I think about complexity. "Deep modules" is a p
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-10-24 12:34 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-10-25 13:06 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-55553`**](https://nvd.nist.gov/vuln/detail/CVE-2026-55553) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>urllib is an HTTP client for Node.js that supports authentication, redirects, timeouts, and o...</sub><br><sub>Published: `2026-08-25`</sub> | [**AssuranceRetraite**](https://www.google.com/search?q=AssuranceRetraite%20data%20breach&tbm=nws) &nbsp; <sub>`lassuranceretraite.fr`</sub><br><sub>**70,372** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `family members' names` &nbsp;·&nbsp; Added: `2026-10-20`</sub> |
-| [**`CVE-2026-47626`**](https://nvd.nist.gov/vuln/detail/CVE-2026-47626) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.2**<br><sub>NVIDIA DGX Spark contains a vulnerability in the system firmware, where a privileged attacker...</sub><br><sub>Published: `2026-08-25`</sub> | [**GitesDeFrance**](https://www.google.com/search?q=GitesDeFrance%20data%20breach&tbm=nws) &nbsp; <sub>`gites-de-france.com`</sub><br><sub>**117,574** accounts compromised</sub><br><sub>Data: `booking details` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-10-18`</sub> |
-| [**`CVE-2026-47624`**](https://nvd.nist.gov/vuln/detail/CVE-2026-47624) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.0**<br><sub>NVIDIA DGX Spark contains a vulnerability in UEFI where a Attacker may cause a/an CWE-693 by ...</sub><br><sub>Published: `2026-08-25`</sub> | [**Crunchbase**](https://www.google.com/search?q=Crunchbase%20data%20breach&tbm=nws) &nbsp; <sub>`crunchbase.com`</sub><br><sub>**559,908** accounts compromised</sub><br><sub>Data: `email addresses` `employers` `job titles` &nbsp;·&nbsp; Added: `2026-10-14`</sub> |
+| [**`CVE-2026-80570`**](https://nvd.nist.gov/vuln/detail/CVE-2026-80570) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+Input: synaptics-rmi4 - ...</sub><br><sub>Published: `2026-08-26`</sub> | [**AssuranceRetraite**](https://www.google.com/search?q=AssuranceRetraite%20data%20breach&tbm=nws) &nbsp; <sub>`lassuranceretraite.fr`</sub><br><sub>**70,372** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `family members' names` &nbsp;·&nbsp; Added: `2026-10-20`</sub> |
+| [**`CVE-2026-80569`**](https://nvd.nist.gov/vuln/detail/CVE-2026-80569) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+Input: synaptics-rmi4 - ...</sub><br><sub>Published: `2026-08-26`</sub> | [**GitesDeFrance**](https://www.google.com/search?q=GitesDeFrance%20data%20breach&tbm=nws) &nbsp; <sub>`gites-de-france.com`</sub><br><sub>**117,574** accounts compromised</sub><br><sub>Data: `booking details` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-10-18`</sub> |
+| [**`CVE-2026-80568`**](https://nvd.nist.gov/vuln/detail/CVE-2026-80568) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+Input: synaptics-rmi4 - ...</sub><br><sub>Published: `2026-08-26`</sub> | [**Crunchbase**](https://www.google.com/search?q=Crunchbase%20data%20breach&tbm=nws) &nbsp; <sub>`crunchbase.com`</sub><br><sub>**559,908** accounts compromised</sub><br><sub>Data: `email addresses` `employers` `job titles` &nbsp;·&nbsp; Added: `2026-10-14`</sub> |
 <!-- SECURITY-END -->
 ---
