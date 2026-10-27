@@ -44,10 +44,12 @@ Short, sharp, and it rewired how I think about complexity. "Deep modules" is a p
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-10-26 15:03 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-10-27 14:17 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-
+| [**`CVE-2026-51660`**](https://nvd.nist.gov/vuln/detail/CVE-2026-51660) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.1**<br><sub>Incorrect access control in the getIpPortFilterRules function of TOTOLINK T6 4.1.5cu.748_B202...</sub><br><sub>Published: `2026-08-28`</sub> | [**AfD**](https://www.google.com/search?q=AfD%20data%20breach&tbm=nws) &nbsp; <sub>`afd.de`</sub><br><sub>**345,439** accounts compromised</sub><br><sub>Data: `email addresses` `email messages` &nbsp;·&nbsp; Added: `2026-10-27`</sub> |
+| [**`CVE-2026-51659`**](https://nvd.nist.gov/vuln/detail/CVE-2026-51659) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>Incorrect access control in the getUrlFilterRules function of TOTOLINK T6 4.1.5cu.748_B202110...</sub><br><sub>Published: `2026-08-28`</sub> | [**AssuranceRetraite**](https://www.google.com/search?q=AssuranceRetraite%20data%20breach&tbm=nws) &nbsp; <sub>`lassuranceretraite.fr`</sub><br><sub>**70,372** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `family members' names` &nbsp;·&nbsp; Added: `2026-10-20`</sub> |
+| [**`CVE-2026-51658`**](https://nvd.nist.gov/vuln/detail/CVE-2026-51658) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>Incorrect access control in the getDmzCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allow...</sub><br><sub>Published: `2026-08-28`</sub> | [**GitesDeFrance**](https://www.google.com/search?q=GitesDeFrance%20data%20breach&tbm=nws) &nbsp; <sub>`gites-de-france.com`</sub><br><sub>**117,574** accounts compromised</sub><br><sub>Data: `booking details` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-10-18`</sub> |
 <!-- SECURITY-END -->
 ---
