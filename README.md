@@ -44,12 +44,18 @@ Short, sharp, and it rewired how I think about complexity. "Deep modules" is a p
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-11-09 18:37 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-11-10 16:19 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-81940`**](https://nvd.nist.gov/vuln/detail/CVE-2026-81940) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.8**<br><sub>IBM Langflow OSS 1.0.0 through 1.11.5 could allow a remote authenticated attacker to execute ...</sub><br><sub>Published: `2026-09-10`</sub> | [**Harvard**](https://www.google.com/search?q=Harvard%20data%20breach&tbm=nws) &nbsp; <sub>`harvard.edu`</sub><br><sub>**850,537** accounts compromised</sub><br><sub>Data: `charitable donations` `citizenship statuses` `dates of birth` &nbsp;·&nbsp; Added: `2026-11-03`</sub> |
-| [**`CVE-2026-81554`**](https://nvd.nist.gov/vuln/detail/CVE-2026-81554) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.8**<br><sub>IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to ob...</sub><br><sub>Published: `2026-09-10`</sub> | [**AfD**](https://www.google.com/search?q=AfD%20data%20breach&tbm=nws) &nbsp; <sub>`afd.de`</sub><br><sub>**345,439** accounts compromised</sub><br><sub>Data: `email addresses` `email messages` &nbsp;·&nbsp; Added: `2026-10-27`</sub> |
-| [**`CVE-2026-81551`**](https://nvd.nist.gov/vuln/detail/CVE-2026-81551) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.8**<br><sub>IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to ar...</sub><br><sub>Published: `2026-09-10`</sub> | [**AssuranceRetraite**](https://www.google.com/search?q=AssuranceRetraite%20data%20breach&tbm=nws) &nbsp; <sub>`lassuranceretraite.fr`</sub><br><sub>**70,372** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `family members' names` &nbsp;·&nbsp; Added: `2026-10-20`</sub> |
+| [**`CVE-2026-80962`**](https://nvd.nist.gov/vuln/detail/CVE-2026-80962) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+dm-pcache: validate geom...</sub><br><sub>Published: `2026-09-11`</sub> | [**Harvard**](https://www.google.com/search?q=Harvard%20data%20breach&tbm=nws) &nbsp; <sub>`harvard.edu`</sub><br><sub>**850,537** accounts compromised</sub><br><sub>Data: `charitable donations` `citizenship statuses` `dates of birth` &nbsp;·&nbsp; Added: `2026-11-03`</sub> |
+| [**`CVE-2026-80961`**](https://nvd.nist.gov/vuln/detail/CVE-2026-80961) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+dm-pcache: validate kset...</sub><br><sub>Published: `2026-09-11`</sub> | [**AfD**](https://www.google.com/search?q=AfD%20data%20breach&tbm=nws) &nbsp; <sub>`afd.de`</sub><br><sub>**345,439** accounts compromised</sub><br><sub>Data: `email addresses` `email messages` &nbsp;·&nbsp; Added: `2026-10-27`</sub> |
+| [**`CVE-2026-80959`**](https://nvd.nist.gov/vuln/detail/CVE-2026-80959) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+dm-pcache: bound the per...</sub><br><sub>Published: `2026-09-11`</sub> | [**AssuranceRetraite**](https://www.google.com/search?q=AssuranceRetraite%20data%20breach&tbm=nws) &nbsp; <sub>`lassuranceretraite.fr`</sub><br><sub>**70,372** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `family members' names` &nbsp;·&nbsp; Added: `2026-10-20`</sub> |
 <!-- SECURITY-END -->
 ---
